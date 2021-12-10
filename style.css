@@ -1,0 +1,41 @@
+.hide{
+    display: none;
+}
+
+.wrap{
+    background-color: grey;
+    width: 250px;
+    padding: 200px;
+    height: 500px;
+    box-shadow: inset 0px 0px 10px black;
+}
+
+.h1{
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.input{
+    padding: 10px;
+    background: rgb(236, 234, 234);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 80%;
+    margin-left: 20px;
+    outline: none;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 5px black;
+}
+
+.ul{
+    padding-bottom: 50px;
+}
+
+.ul li{
+    font-size: 20px;
+    line-height: 1.4;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgb(150, 65, 65);
+}
